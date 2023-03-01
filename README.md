@@ -34,3 +34,7 @@ testline
 t4
 
 t5
+
+t6
+testline
+
